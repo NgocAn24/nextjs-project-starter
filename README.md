@@ -1,6 +1,6 @@
 ## Clone về máy và chạy thử
 - chỉ cần chạy file index.html
-- 
+- Ae cho mình xin 1 stars nhé
 ## giao diện
 ![image](https://github.com/user-attachments/assets/d4a5c268-827b-4e3e-84ba-04d19b26b9a4)
 ![image](https://github.com/user-attachments/assets/c5e659f0-bfa1-48c2-905c-d7b4dd69f026)
